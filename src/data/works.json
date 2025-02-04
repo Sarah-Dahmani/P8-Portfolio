@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Booki - Agence de voyage - Création d'un site statique responsive avec HTML5 et CSS3",
+      "slug": "booki",
+      "image" : "images/booki.webp",
+      "description": "La mission principale de ce projet est d'intégrer une interface responsive d'un site web, pour une agence de voyage. La capacité à créer des interfaces web responsives est cruciale dans le développement web moderne. Ces compétences sont fondamentales pour assurer une expérience utilisateur optimale sur divers appareils. Partie front-end d'un site. Création d'un site d'une agence de voyage en HTML5 CSS3 à partir de maquettes Figma. Site responsive pour desktop, tablette et mobile.",
+      "link": "https://github.com/Sarah-Dahmani/P2-Booki.git",
+      "tags": ["HTML5", "CSS3", "Responsive", "Frontend"]
+    },
+    {
+      "id": 2,
+      "title": "Sophie Bluel - Architecte d'intérieur - Création d'un site dynamique avec système d'authentification utilisateur",
+      "slug": "bluel",
+      "image": "images/sophie bluel.webp",
+      "description": "Introduction à JavaScript. Affichage dynamique d'une galerie photos à partir d'une API avec la méthode FETCH. Authentification et utilisation d'un token pour pouvoir /DELETE et /POST.",
+      "link": "https://github.com/Sarah-Dahmani/P3-Portfolio-architecte-sophie-bluel.git",
+      "tags": ["Javascript", "API", "Frontend"]
+    },
+    {
+      "id": 3,
+      "title": "Nina Carducci - Photographe - Débogage et optimisation de l'accessibilité d'un site web.",
+      "slug": "nina",
+      "image" : "images/nina_carducci.png",
+      "description": "La mission principale de ce projet est d'identifier les problèmes de chargement et de référencement. Optimiser le référencement (SEO) et l'accessibilité d'un site. Débugger un site web grâce aux Chrome Webtools. Rédiger un cahier de recette pour tester un site.",
+      "link": "https://github.com/Sarah-Dahmani/P4-Nina-Carducci.git",
+      "tags": ["SEO", "Accessibilité", "Référencement", "Débogage"]
+    },
+    {
+      "id": 4,
+      "title": "KASA - Agence de location immobilière - Création d'un site dynamique avec animations SASS",
+      "slug": "kasa",
+      "image": "images/kasa.webp",
+      "description": "Dans ce projet, on implémente le front-end d'un application en utilisant React et React Router pour créer une expérience utilisateur moderne et réactive. Créer un site web d'agence de location d'appartement Kasa, avec React.js. Définir les composants à créer et à réutiliser. Créer un composant pour les routes. Utiliser SASS pour gérer le CSS et l'implémentation d’animations CSS. Le projet se concentre exclusivement sur le développement front-end, en se basant sur les maquettes fournies et en utilisants des données simulées d'un ficher JSON",
+      "link": "https://github.com/Sarah-Dahmani/P5-KASA.git",
+      "tags": ["REACT", "SASS", "Frontend"]
+    },
+    {
+      "id": 5,
+      "title": "Mon Vieux Grimoire - Site de notation de livres - Création d'un backend avec authentification et système de notation",
+      "slug": "grimoire",
+      "image": "images/vieuxgrimoire.webp",
+      "description": "Développer le back-end d'un site de notation de livres. Créer un serveur avec Express.js et connecter à une database MongoDB. Développer des modèles de données et implémenter des opérations CRUD pour la gestion des livres. Implémenter un système d'authentification sécurisé pour les users du site. Gestion du téléchargement et optimisation des images. Pratique du Green Code.",
+      "link": "https://github.com/Sarah-Dahmani/P6-Mon-Vieux-Grimoire.git",
+      "tags": ["Express.JS", "Node.JS", "MongoDB", "MVC", "CRUD", "GreenCode"]
+    },
+    {
+      "id": 6,
+      "title": "Menu-Maker - Analyse des besoins d'un client et proposition de solutions.",
+      "slug": "mmaker",
+      "image": "images/Qwenta.png",
+      "description": "Mener, préparer et planifier le projet de développement d’un site, dans le cadre d'une méthodologie agile. Outil de curation pour la veille informationnelle et un Kanban pour définir les sprints. Proposer une solution technique cohérente.",
+      "link": "",
+      "tags": ["Veille techno", "Specifications tech", "Agile", "SCRUM"]
+    }
+  ]
+  
