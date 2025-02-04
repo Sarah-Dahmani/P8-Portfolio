@@ -9,3 +9,4 @@ function ProgressBar({ percentage, index }) {
 }
 
 export default ProgressBar;
+
