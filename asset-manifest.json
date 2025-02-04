@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Sarah-Dahmani/P8-Portfolio/static/css/main.da63b185.css",
+    "main.js": "/Sarah-Dahmani/P8-Portfolio/static/js/main.b000ec9e.js",
+    "static/css/629.c819322b.chunk.css": "/Sarah-Dahmani/P8-Portfolio/static/css/629.c819322b.chunk.css",
+    "static/js/629.32e811be.chunk.js": "/Sarah-Dahmani/P8-Portfolio/static/js/629.32e811be.chunk.js",
+    "static/js/488.2586c4aa.chunk.js": "/Sarah-Dahmani/P8-Portfolio/static/js/488.2586c4aa.chunk.js",
+    "static/js/855.6d9496f1.chunk.js": "/Sarah-Dahmani/P8-Portfolio/static/js/855.6d9496f1.chunk.js",
+    "static/media/code.webp": "/Sarah-Dahmani/P8-Portfolio/static/media/code.e33dd6bdf22c3b04d2fe.webp",
+    "static/media/paysage.avif": "/Sarah-Dahmani/P8-Portfolio/static/media/paysage.d754d58ed8a507069fcb.avif",
+    "static/media/AvatarMaker (1).png": "/Sarah-Dahmani/P8-Portfolio/static/media/AvatarMaker (1).8ed77119719a3b8218b0.png",
+    "static/media/bird.webp": "/Sarah-Dahmani/P8-Portfolio/static/media/bird.2a8be526078fc8812fc3.webp",
+    "index.html": "/Sarah-Dahmani/P8-Portfolio/index.html",
+    "main.da63b185.css.map": "/Sarah-Dahmani/P8-Portfolio/static/css/main.da63b185.css.map",
+    "main.b000ec9e.js.map": "/Sarah-Dahmani/P8-Portfolio/static/js/main.b000ec9e.js.map",
+    "629.c819322b.chunk.css.map": "/Sarah-Dahmani/P8-Portfolio/static/css/629.c819322b.chunk.css.map",
+    "629.32e811be.chunk.js.map": "/Sarah-Dahmani/P8-Portfolio/static/js/629.32e811be.chunk.js.map",
+    "488.2586c4aa.chunk.js.map": "/Sarah-Dahmani/P8-Portfolio/static/js/488.2586c4aa.chunk.js.map",
+    "855.6d9496f1.chunk.js.map": "/Sarah-Dahmani/P8-Portfolio/static/js/855.6d9496f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da63b185.css",
+    "static/js/main.b000ec9e.js"
+  ]
+}
