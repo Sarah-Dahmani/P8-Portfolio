@@ -37,3 +37,4 @@ function Collapse({ titleCollapse, textCollapse }) {
 }
 
 export default Collapse;
+
