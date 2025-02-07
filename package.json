@@ -2,7 +2,7 @@
   "name": "Portfolio",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://github.com/Sarah-Dahmani/P8-Portfolio",
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
